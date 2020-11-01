@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="78ea4fa6-5494-4381-b220-2d296a02c880" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jdvq2rvDdeXIbtPcKWz4tpzSxE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/blogs/blogs" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\local_dev\scrapy_t\blogs\blogs" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="78ea4fa6-5494-4381-b220-2d296a02c880" name="Default Changelist" comment="" />
+      <created>1604147462312</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604147462312</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="702" y="329" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1604149014871">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="702" y="329" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1050/1920.0.1920.1080@0.0.1920.1050" timestamp="1604149014871" />
+    <state x="739" y="280" key="FileChooserDialogImpl" timestamp="1604147837258">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="739" y="280" key="FileChooserDialogImpl/0.0.1920.1050/1920.0.1920.1080@0.0.1920.1050" timestamp="1604147837258" />
+    <state x="2381" y="173" key="SettingsEditor" timestamp="1604163370790">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="461" y="168" key="SettingsEditor/0.0.1920.1050/1920.0.1920.1080@0.0.1920.1050" timestamp="1604147844862" />
+    <state x="2381" y="173" key="SettingsEditor/0.0.1920.1050/1920.0.1920.1080@1920.0.1920.1080" timestamp="1604163370790" />
+    <state x="1054" y="462" key="com.intellij.ide.util.TipDialog" timestamp="1604147472435">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="1054" y="462" key="com.intellij.ide.util.TipDialog/0.0.1920.1050/1920.0.1920.1080@0.0.1920.1050" timestamp="1604147472435" />
+  </component>
+</project>
